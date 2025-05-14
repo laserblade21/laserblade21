@@ -12,7 +12,7 @@
 
 ### 🧠 **[ChurnSight Dashboard](https://churn-sight.com/dashboard)**  
 A predictive dashboard for financial institutions to identify at-risk customers using explainable machine learning.  
-> Built with Flask + React, powered by XGBoost and SHAP, containerized with Docker.
+> Built with Flask + React, powered by XGBoost.
 
 ### 🌍 **[Tech Career Canada](https://techcareercanada.com/)**  
 A dynamic platform that supports newcomers and professionals in navigating Canada's tech job market.  
