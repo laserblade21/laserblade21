@@ -3,9 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Data-Driven+Engineer;Full-Stack+Developer;AI+Enthusiast;Founder+@+ChurnSight&center=true&width=380&height=45">
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=laserblade21&color=blueviolet" alt="Profile views"/>
-</p>
 
 
 ## 🌐 Live Projects
