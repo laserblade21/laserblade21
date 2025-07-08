@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Eyob Bekele!
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data-Driven+Engineer;Full-Stack+Developer;AI+Enthusiast;Founder+@+ChurnSight&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data-Driven+Engineer;Full-Stack+Developer;AI+Enthusiast;&center=true&width=380&height=45">
 </h3>
 
 
