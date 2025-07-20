@@ -5,7 +5,7 @@
 
 
 
-## 🌐 Live Projects
+## 🌐 Live Demo Projects
 
 ### 🧠 **[ChurnSight Dashboard](https://churn-sight.com/dashboard)**  
 A predictive dashboard for financial institutions to identify at-risk customers using explainable machine learning.  
