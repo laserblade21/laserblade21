@@ -12,6 +12,8 @@ A predictive dashboard for financial institutions to identify at-risk customers 
 > Built with Flask + React, powered by XGBoost.
 
 ### 🌍 **[Tech Career Canada](https://techcareercanada.com/)**  
+[![Project Slide Paper](https://img.shields.io/badge/Slide%20Paper-View%20PDF-blue)](https://1drv.ms/b/c/a73953bd7d2e948d/IQDQ9pjYXLDrTr07HSijxnUmAc869h9ZzLlhN2T3mYpyt-g?e=9L2Npu)
+
 A dynamic platform that supports newcomers and professionals in navigating Canada's tech job market.  
 > Built with performance in mind, designed to inform, connect, and inspire.
 
@@ -21,7 +23,7 @@ A dynamic platform that supports newcomers and professionals in navigating Canad
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://laserblade21.github.io/">
+  <a href="https://https://eyobbekele.info//">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:eyobbekele112@gmail.com">
