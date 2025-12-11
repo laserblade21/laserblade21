@@ -11,9 +11,7 @@
 A predictive dashboard for financial institutions to identify at-risk customers using explainable machine learning.  
 > Built with Flask + React, powered by XGBoost.
 
-### 🌍 **[Tech Career Canada](https://techcareercanada.com/)**  
-[![Project Slide Paper](https://img.shields.io/badge/Slide%20Paper-View%20PDF-blue)](https://1drv.ms/b/c/a73953bd7d2e948d/IQDQ9pjYXLDrTr07HSijxnUmAc869h9ZzLlhN2T3mYpyt-g?e=9L2Npu)
-
+### 🌍 **[Tech Career Canada](https://techcareercanada.com/)**   [📄 View Project Paper](https://1drv.ms/b/c/a73953bd7d2e948d/IQDQ9pjYXLDrTr07HSijxnUmAc869h9ZzLlhN2T3mYpyt-g?e=9L2Npu)
 A dynamic platform that supports newcomers and professionals in navigating Canada's tech job market.  
 > Built with performance in mind, designed to inform, connect, and inspire.
 
