@@ -7,14 +7,13 @@
 
 ## 🌐 Live Demo Projects
 
-### 🧠 **[ChurnSight Dashboard](https://churn-sight.com/dashboard)**  
-A predictive dashboard for financial institutions to identify at-risk customers using explainable machine learning.  
-> Built with Flask + React, powered by XGBoost.
-
 ### 🌍 **[Tech Career Canada](https://techcareercanada.com/)**   [📄 View Project Paper](https://1drv.ms/b/c/a73953bd7d2e948d/IQDQ9pjYXLDrTr07HSijxnUmAc869h9ZzLlhN2T3mYpyt-g?e=9L2Npu)
 A dynamic platform that supports newcomers and professionals in navigating Canada's tech job market.  
 > Built with performance in mind, designed to inform, connect, and inspire.
-
+> 
+### 🧠 **[ChurnSight Dashboard](https://churn-sight.com/dashboard)**  
+A predictive dashboard for financial institutions to identify at-risk customers using explainable machine learning.  
+> Built with Flask + React, powered by XGBoost.
 ---
 
 
